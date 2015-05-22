@@ -1,0 +1,6 @@
+slidy_presentation: 
+  widescreen: false 
+  css: custom.css
+  duration: 45
+beamer_presentation:
+    colortheme: dolphin
