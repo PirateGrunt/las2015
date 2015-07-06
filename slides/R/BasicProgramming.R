@@ -7,7 +7,7 @@ myFunction <- function(x, y){
 
 ## ------------------------------------------------------------------------
 CircleArea <- function(radius){
-  area <- (2 * pi * radius) ^ 2
+  area <- pi * radius ^ 2
   area
 }
 
